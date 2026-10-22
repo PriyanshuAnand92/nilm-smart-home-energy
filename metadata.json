@@ -1,0 +1,6 @@
+{
+  "name": "NILM Smart Home Energy Monitor & Research Lab",
+  "description": "Non-Intrusive Load Monitoring MVP with CNN-based appliance disaggregation, research benchmarks, cross-domain generalisation metrics, and household energy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
